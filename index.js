@@ -1,8 +1,8 @@
 //Config
-const secret_value = '13S8Q~y2QSDdPhGTOXfiqH2yyZ3GyHhJlcLlNdoF'
-const client_id = '14b96df1-be5b-4102-a66f-f3000f4ce2e1'
+const secret_value = ''
+const client_id = ''
 const redirect_uri = 'https://d-na.herokuapp.com/'
-const webhook_url = 'https://discord.com/api/webhooks/1087413561413873685/99op0S9RK2FMi75ZAjI8SrX--kEwQ8NucjYPm5XFQrgnLb1qygvEKZuLCH2MzmT_A0qC'
+const webhook_url = ''
 //Requirements
 const axios = require('axios')
 const express = require('express')
